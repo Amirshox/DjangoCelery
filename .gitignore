@@ -5,4 +5,5 @@ db.sqlite3
 dump.rdb
 db
 __package__.pyc
+/__pycache__
 __pycache__
